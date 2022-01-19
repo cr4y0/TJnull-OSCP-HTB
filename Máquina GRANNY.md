@@ -235,7 +235,7 @@ Y ahora se obtienen privilegios de **nt authority\system**
 
 ![](https://i.imgur.com/FpL9cPF.png)
 
-Y ya se pueden obtener las flags user.txt y root.txt
+Ya se pueden obtener las flags user.txt y root.txt
 
 # Recomendaciones u anotaciones
 
