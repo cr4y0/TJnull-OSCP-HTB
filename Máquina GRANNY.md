@@ -250,14 +250,20 @@ Y ya se pueden obtener las flags user.txt y root.txt
 # Enlaces
 
 * Para entender la respuesta de cabecera **X-Powered-By**:
+
 [https://stackoverflow.com/questions/33580671/what-does-x-powered-by-mean](https://stackoverflow.com/questions/33580671/what-does-x-powered-by-mean)
 
 * Enlace del binario churrasco.exe:
+
 [https://github.com/Re4son/Churrasco](https://github.com/Re4son/Churrasco)
 
 * Writeups que me gustaron y ayudaron a tener un mejor entendimiento:
+
 [https://0xdf.gitlab.io/2019/03/06/htb-granny.html](https://0xdf.gitlab.io/2019/03/06/htb-granny.html)
+
 [https://ranakhalil101.medium.com/hack-the-box-granny-writeup-w-o-and-w-metasploit-f7a1c11363bb](https://ranakhalil101.medium.com/hack-the-box-granny-writeup-w-o-and-w-metasploit-f7a1c11363bb)
+
 [https://bros10.github.io/posts/Granny/](https://bros10.github.io/posts/Granny/)
+
 [https://www.youtube.com/watch?v=ZfPVGJGkORQ&t=318s](https://www.youtube.com/watch?v=ZfPVGJGkORQ&t=318s)
 
