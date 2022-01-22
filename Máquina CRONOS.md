@@ -174,6 +174,7 @@ Se habilita un puerto en escucha
 ![](https://i.imgur.com/gfDyMsy.png)
 
 Se injecta un comando para entablar un revershell
+
 ![](https://i.imgur.com/53gmY2G.png)
 
 Se obtiene la revershell:
