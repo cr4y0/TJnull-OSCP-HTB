@@ -287,6 +287,7 @@ https://www.cyberhades.com/2016/03/20/como-funcionan-ltrace-y-strace-y-en-que-se
 https://www.php.net/manual/es/install.unix.apache2.php
 
 * Writeups que me gustaron y ayudaron a tener un mejor entendimiento :hearts: : 
+
 https://0xdf.gitlab.io/2020/08/22/htb-magic.html
 
 https://offs3cg33k.medium.com/magic-htb-walkthrough-129e6a5c3c89
